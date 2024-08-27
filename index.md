@@ -26,10 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 - Bullet
-- pointes
+- points
 
 1. numbers
 2. here
+[Wiki](https://www.wikipedia.org/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
