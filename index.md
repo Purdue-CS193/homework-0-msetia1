@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# Michael's First CS193 Homework
+
+
+### Favorite Things about CS193
+- Low stress environment
+- Clear homework instructions
+- Easy to understand lectures
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,13 +33,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-- Bullet
-- points
-
-1. numbers
-2. here\
-[Wiki](https://www.wikipedia.org/)\
-![Image](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
